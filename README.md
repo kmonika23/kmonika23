@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Monika!
 
-<!--
-**kmonika23/kmonika23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Artificial Intelligence and Data Science  
+📍 From Chennai, currently based in Trichy  
 
-Here are some ideas to get you started:
+💡 I'm passionate about solving real-world problems using Machine Learning and Data Analytics.  
+🛠️ Tech Stack: Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring: Open Source contributions, Model Optimization, and Deep Learning  
+🔭 Projects: Drowsiness Detection, Rain Prediction, Employee Attrition Analysis
+🧠 **Patent Work**  
+📌 Title: Smart Dance Mirror with Performance Analysis  
+📝 Description: An AI-powered interactive mirror that tracks, analyzes, and provides feedback on dance movements in real time using pose estimation and motion analysis.
+📅 Filed on: Dec 2024 
+📄 Status: Patent Filed  
+
+📌 I love learning, building, and collaborating on impactful tech projects.  
+
+📫 Reach me at: mmonikakanagaraj@gmail.com 
+🌐 LinkedIn: www.linkedin.com/in/monika-kanagaraj
