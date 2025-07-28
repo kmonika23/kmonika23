@@ -4,7 +4,7 @@
 📍 From Chennai, currently based in Trichy  
 
 💡 I'm passionate about solving real-world problems using Machine Learning and Data Analytics.  
-🛠️ Tech Stack: Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, MySQL  
+🛠️ Tech Stack: JAVA,Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, MySQL  
 
 🌱 Currently exploring: Open Source contributions, Model Optimization, and Deep Learning  
 🔭 Projects: Drowsiness Detection, Rain Prediction, Employee Attrition Analysis
